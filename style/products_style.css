@@ -68,6 +68,20 @@
 
 
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #c094fc;
+    color: black;
+    text-align: center;
+    font-family: LemonMilk;
+
+
+  }
+
 .product-image img{
     margin-top: 40px;
 }
